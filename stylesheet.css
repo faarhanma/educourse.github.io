@@ -58,6 +58,7 @@ header {
 }
 
 .header-right a {
+  text-decoration: none;
   line-height: 65px;
   padding: 0 25px;
   color: white;
