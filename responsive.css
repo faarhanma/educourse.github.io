@@ -4,14 +4,6 @@
     width: 50%;
     margin-bottom: 50px;
   }
-
-  footer > ul {
-    justify-content: center;
-  }
-
-  footer > span {
-    justify-content: center;
-  }
 }
 
 /* Untuk Smartphone */
@@ -27,14 +19,6 @@
   .menu-icon {
     display: block;
     opacity: 1;
-  }
-
-  footer > ul {
-    justify-content: center;
-  }
-
-  footer > span {
-    justify-content: center;
   }
 
   .container-form .button {
